@@ -1,5 +1,12 @@
 <template>
-<div id="map" style="width:100%;  height:700px;margin:0 auto; overflow:hidden; border:1px solid;"></div>
+<div id="map"
+style="width:1200px;
+height:500px;
+margin:auto;
+margin-top: 50px;
+margin-bottom: 50px;
+overflow:hidden;
+border-radius: 50px;"></div>
 </template>
 
 <script>
